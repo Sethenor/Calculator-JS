@@ -6,7 +6,6 @@
 body {
     display: flex;
     justify-content: center;
-    align-items: center;
     height: 900px;
 }
 
@@ -54,10 +53,12 @@ button
 
 .clearbutton
 {
-    color: darkred;
+    background-color: darkred;
+    color: white;
 }
 
 .operator
 {
-    color: darkgreen;
+    background-color: darkgreen;
+    color: white;
 }
